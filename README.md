@@ -1,6 +1,6 @@
 
 
-This ReactJS project, based on API handling 
+This ReactJS project,is based on API handling 
 
 1) GitHub API
 2) Fusioin Charts API
@@ -11,9 +11,9 @@ With this application an user can search other users GitHub profile and get thei
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
-- [Get User](https://api.github.com/users/wesbos)
-- [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
-- [Followers](https://api.github.com/users/john-smilga/followers)
+- [Get User](https://api.github.com/users/Indranil-Sarmah)
+- [Repos](https://api.github.com/users/Indranil-Sarmah/repos?per_page=100)
+- [Followers](https://api.github.com/users/Indranil-Sarmah/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
 
   For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
